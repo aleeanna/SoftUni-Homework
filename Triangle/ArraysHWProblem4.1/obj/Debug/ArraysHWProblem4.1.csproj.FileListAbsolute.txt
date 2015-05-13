@@ -1,0 +1,6 @@
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\Triangle\ArraysHWProblem4.1\bin\Debug\ArraysHWProblem4.1.exe.config
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\Triangle\ArraysHWProblem4.1\bin\Debug\ArraysHWProblem4.1.exe
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\Triangle\ArraysHWProblem4.1\bin\Debug\ArraysHWProblem4.1.pdb
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\Triangle\ArraysHWProblem4.1\obj\Debug\ArraysHWProblem4.1.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\Triangle\ArraysHWProblem4.1\obj\Debug\ArraysHWProblem4.1.exe
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\Triangle\ArraysHWProblem4.1\obj\Debug\ArraysHWProblem4.1.pdb

@@ -1,0 +1,6 @@
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\Triangle\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\Triangle\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\Triangle\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\Triangle\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\Triangle\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\Triangle\BubbleSort\obj\Debug\BubbleSort.pdb

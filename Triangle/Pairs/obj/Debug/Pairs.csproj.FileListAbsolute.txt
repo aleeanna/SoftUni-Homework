@@ -1,0 +1,6 @@
+c:\Users\ibm_admin\documents\visual studio 2013\Projects\Triangle\Pairs\bin\Debug\Pairs.exe.config
+c:\Users\ibm_admin\documents\visual studio 2013\Projects\Triangle\Pairs\bin\Debug\Pairs.exe
+c:\Users\ibm_admin\documents\visual studio 2013\Projects\Triangle\Pairs\bin\Debug\Pairs.pdb
+c:\Users\ibm_admin\documents\visual studio 2013\Projects\Triangle\Pairs\obj\Debug\Pairs.csprojResolveAssemblyReference.cache
+c:\Users\ibm_admin\documents\visual studio 2013\Projects\Triangle\Pairs\obj\Debug\Pairs.exe
+c:\Users\ibm_admin\documents\visual studio 2013\Projects\Triangle\Pairs\obj\Debug\Pairs.pdb

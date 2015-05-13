@@ -1,0 +1,6 @@
+c:\users\ibm_admin\documents\visual studio 2013\Projects\PrimitveTypes\PrimitveTypes\bin\Debug\PrimitveTypes.exe.config
+c:\users\ibm_admin\documents\visual studio 2013\Projects\PrimitveTypes\PrimitveTypes\obj\Debug\PrimitveTypes.csprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2013\Projects\PrimitveTypes\PrimitveTypes\bin\Debug\PrimitveTypes.exe
+c:\users\ibm_admin\documents\visual studio 2013\Projects\PrimitveTypes\PrimitveTypes\bin\Debug\PrimitveTypes.pdb
+c:\users\ibm_admin\documents\visual studio 2013\Projects\PrimitveTypes\PrimitveTypes\obj\Debug\PrimitveTypes.exe
+c:\users\ibm_admin\documents\visual studio 2013\Projects\PrimitveTypes\PrimitveTypes\obj\Debug\PrimitveTypes.pdb

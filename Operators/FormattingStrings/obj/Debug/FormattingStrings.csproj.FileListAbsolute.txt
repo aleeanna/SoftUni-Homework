@@ -1,0 +1,6 @@
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\Operators\FormattingStrings\bin\Debug\FormattingStrings.exe.config
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\Operators\FormattingStrings\bin\Debug\FormattingStrings.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\Operators\FormattingStrings\bin\Debug\FormattingStrings.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\Operators\FormattingStrings\obj\Debug\FormattingStrings.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\Operators\FormattingStrings\obj\Debug\FormattingStrings.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2013\Projects\Operators\FormattingStrings\obj\Debug\FormattingStrings.pdb

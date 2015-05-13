@@ -1,0 +1,6 @@
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\PrimitveTypes\ArraysExamples\bin\Debug\ArraysExamples.exe.config
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\PrimitveTypes\ArraysExamples\bin\Debug\ArraysExamples.exe
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\PrimitveTypes\ArraysExamples\bin\Debug\ArraysExamples.pdb
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\PrimitveTypes\ArraysExamples\obj\Debug\ArraysExamples.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\PrimitveTypes\ArraysExamples\obj\Debug\ArraysExamples.exe
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\PrimitveTypes\ArraysExamples\obj\Debug\ArraysExamples.pdb

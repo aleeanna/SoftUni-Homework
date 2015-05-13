@@ -1,0 +1,6 @@
+c:\users\ibm_admin\documents\visual studio 2013\Projects\Operators\Operators\bin\Debug\Operators.exe.config
+c:\users\ibm_admin\documents\visual studio 2013\Projects\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2013\Projects\Operators\Operators\bin\Debug\Operators.exe
+c:\users\ibm_admin\documents\visual studio 2013\Projects\Operators\Operators\bin\Debug\Operators.pdb
+c:\users\ibm_admin\documents\visual studio 2013\Projects\Operators\Operators\obj\Debug\Operators.exe
+c:\users\ibm_admin\documents\visual studio 2013\Projects\Operators\Operators\obj\Debug\Operators.pdb
